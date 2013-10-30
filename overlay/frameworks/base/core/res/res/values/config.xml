@@ -208,5 +208,5 @@
     <!-- Boolean indicating whether the wifi chipset has background scan support -->
     <bool translatable="false" name="config_wifi_background_scan_support">true</bool>
 
-     <bool name="config_has_led_flash">true</bool>
+
 </resources>
